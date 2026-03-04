@@ -1,0 +1,79 @@
+####################################################################################################
+Package:coverlet.collector
+Version:6.0.0
+project URL:https://github.com/coverlet-coverage/coverlet
+Description:Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+Project:C:\Development\Repos\PSON\Tests\Tests.csproj
+
+####################################################################################################
+Package:NUnit
+Version:4.2.2
+project URL:https://nunit.org/
+Description:NUnit is a unit-testing framework for all .NET languages.
+            It can run on macOS, Linux and Windows operating systems.
+            NUnit can be used for a wide range of testing, from unit testing with TDD to full-fledged system and integration testing.
+            It is a non-opinionated, broad and deep framework with multiple different ways to assert that your code behaves as expected. Many aspects of NUnit can be extended to suit your specific purposes.
+
+            The latest version, version 4, is an upgrade from the groundbreaking NUnit 3 framework. It is a modernized version, aimed at taking advantage of the latest .NET features and C# language constructs.
+
+            If you are upgrading from NUnit 3, be aware of the breaking changes (https://docs.nunit.org/articles/nunit/release-notes/breaking-changes.html#nunit-40). Please see the NUnit 4 Migration Guide (https://docs.nunit.org/articles/nunit/release-notes/Nunit4.0-MigrationGuide.html) and take care to prepare your NUnit 3 code before you do the upgrade.
+
+            Supported platforms:
+            - .NET Framework 4.6.2+
+            - .NET 6.0+
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+Project:C:\Development\Repos\PSON\Tests\Tests.csproj
+
+####################################################################################################
+Package:NUnit.Analyzers
+Version:3.9.0
+project URL:https://github.com/nunit/nunit.analyzers
+Description:This package includes analyzers and code fixes for test projects using NUnit 3. The analyzers will mark wrong usages when writing tests, and the code fixes can be used to used to correct these usages.
+
+Version 3.0 and upwards works in Visual Studio 2019 and also enables supression of compiler errors such as errors arising from nullable reference types. For Visual Studio 2017 one must use versions below 3.0.
+licenseUrl:https://www.nuget.org/packages/NUnit.Analyzers/3.9.0/License
+license Type:license.txt
+Project:C:\Development\Repos\PSON\Tests\Tests.csproj
+
+####################################################################################################
+Package:NUnit3TestAdapter
+Version:4.6.0
+project URL:https://docs.nunit.org/articles/vs-test-adapter/Index.html
+Description:The NUnit3 TestAdapter for Visual Studio, all versions from 2012 and onwards, and DotNet (incl. .Net core), versions .net framework 4.6.2 or higher, .net core 3.1, .net 5 or higher.
+
+      Note that this package ONLY contains the adapter, not the NUnit framework.
+      For VS 2017 and forward, you should add this package to every test project in your solution. (Earlier versions only require a single adapter package per solution.)
+licenseUrl:https://licenses.nuget.org/MIT
+license Type:MIT
+Project:C:\Development\Repos\PSON\Tests\Tests.csproj
+
+####################################################################################################
+Package:Roslynator.Analyzers
+Version:4.13.1
+project URL:https://github.com/dotnet/roslynator
+Description:A collection of 200+ analyzers for C#, powered by Roslyn.
+licenseUrl:https://licenses.nuget.org/Apache-2.0
+license Type:Apache-2.0
+Project:C:\Development\Repos\PSON\PSON\PSON.csproj
+
+####################################################################################################
+Package:Syntegon.Tools.MessageLoggerCore
+Version:2.3.0
+project URL:https://pa-tfs.patec.group/Col-PA/Cr_PA-PH_Software-Tools/_git/MessageLogger
+Description:Message Logger Core component for TRACE logging.
+licenseUrl:
+license Type:
+Project:C:\Development\Repos\PSON\PSON\PSON.csproj
+
+####################################################################################################
+Package:ToolsCodingGuidelines
+Version:0.3.0
+project URL:
+Description:Enforces Coding Guidelines defined by ENG-Team-104.
+licenseUrl:
+license Type:
+Project:C:\Development\Repos\PSON\PSON\PSON.csproj
+

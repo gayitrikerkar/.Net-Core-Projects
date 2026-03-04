@@ -1,0 +1,65 @@
+### YamlMime:ManagedReference
+items:
+- uid: AspNetCoreGeneratedDocument
+  commentId: N:AspNetCoreGeneratedDocument
+  id: AspNetCoreGeneratedDocument
+  children:
+  - AspNetCoreGeneratedDocument.Views_Home_Index
+  - AspNetCoreGeneratedDocument.Views_Home_Privacy
+  - AspNetCoreGeneratedDocument.Views_Shared_Error
+  - AspNetCoreGeneratedDocument.Views_Shared__Layout
+  - AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial
+  - AspNetCoreGeneratedDocument.Views__ViewImports
+  - AspNetCoreGeneratedDocument.Views__ViewStart
+  langs:
+  - csharp
+  - vb
+  name: AspNetCoreGeneratedDocument
+  nameWithType: AspNetCoreGeneratedDocument
+  fullName: AspNetCoreGeneratedDocument
+  type: Namespace
+  assemblies:
+  - BindMultipleModelWithSingleView
+references:
+- uid: AspNetCoreGeneratedDocument.Views_Shared__Layout
+  commentId: T:AspNetCoreGeneratedDocument.Views_Shared__Layout
+  href: AspNetCoreGeneratedDocument.Views_Shared__Layout.html
+  name: Views_Shared__Layout
+  nameWithType: Views_Shared__Layout
+  fullName: AspNetCoreGeneratedDocument.Views_Shared__Layout
+- uid: AspNetCoreGeneratedDocument.Views__ViewStart
+  commentId: T:AspNetCoreGeneratedDocument.Views__ViewStart
+  href: AspNetCoreGeneratedDocument.Views__ViewStart.html
+  name: Views__ViewStart
+  nameWithType: Views__ViewStart
+  fullName: AspNetCoreGeneratedDocument.Views__ViewStart
+- uid: AspNetCoreGeneratedDocument.Views_Shared_Error
+  commentId: T:AspNetCoreGeneratedDocument.Views_Shared_Error
+  href: AspNetCoreGeneratedDocument.Views_Shared_Error.html
+  name: Views_Shared_Error
+  nameWithType: Views_Shared_Error
+  fullName: AspNetCoreGeneratedDocument.Views_Shared_Error
+- uid: AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial
+  commentId: T:AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial
+  href: AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial.html
+  name: Views_Shared__ValidationScriptsPartial
+  nameWithType: Views_Shared__ValidationScriptsPartial
+  fullName: AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial
+- uid: AspNetCoreGeneratedDocument.Views_Home_Index
+  commentId: T:AspNetCoreGeneratedDocument.Views_Home_Index
+  href: AspNetCoreGeneratedDocument.Views_Home_Index.html
+  name: Views_Home_Index
+  nameWithType: Views_Home_Index
+  fullName: AspNetCoreGeneratedDocument.Views_Home_Index
+- uid: AspNetCoreGeneratedDocument.Views__ViewImports
+  commentId: T:AspNetCoreGeneratedDocument.Views__ViewImports
+  href: AspNetCoreGeneratedDocument.Views__ViewImports.html
+  name: Views__ViewImports
+  nameWithType: Views__ViewImports
+  fullName: AspNetCoreGeneratedDocument.Views__ViewImports
+- uid: AspNetCoreGeneratedDocument.Views_Home_Privacy
+  commentId: T:AspNetCoreGeneratedDocument.Views_Home_Privacy
+  href: AspNetCoreGeneratedDocument.Views_Home_Privacy.html
+  name: Views_Home_Privacy
+  nameWithType: Views_Home_Privacy
+  fullName: AspNetCoreGeneratedDocument.Views_Home_Privacy
