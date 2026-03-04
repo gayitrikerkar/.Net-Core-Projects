@@ -1,0 +1,8 @@
+/* SHOULD overwrite styles from default and modern template */
+body {
+  --bs-link-color-rgb: 66, 184, 131 !important;
+  --bs-link-hover-color-rgb: 64, 180, 128 !important;
+  --bs-info: #ba13aa !important;
+  --bs-light: #122894;
+  --bs-dark: #bdc617;
+}

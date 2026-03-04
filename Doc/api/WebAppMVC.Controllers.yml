@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: WebAppMVC.Controllers
+  commentId: N:WebAppMVC.Controllers
+  id: WebAppMVC.Controllers
+  children:
+  - WebAppMVC.Controllers.HomeController
+  langs:
+  - csharp
+  - vb
+  name: WebAppMVC.Controllers
+  nameWithType: WebAppMVC.Controllers
+  fullName: WebAppMVC.Controllers
+  type: Namespace
+  assemblies:
+  - WebAppMVC
+references:
+- uid: WebAppMVC.Controllers.HomeController
+  commentId: T:WebAppMVC.Controllers.HomeController
+  href: WebAppMVC.Controllers.HomeController.html
+  name: HomeController
+  nameWithType: HomeController
+  fullName: WebAppMVC.Controllers.HomeController

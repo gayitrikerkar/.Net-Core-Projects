@@ -1,0 +1,6 @@
+- name: Docs
+  href: ./Doc/generic/
+- name: Module Description
+  href: ./Doc/module-specific/
+- name: API
+  href: ./Doc/api/
