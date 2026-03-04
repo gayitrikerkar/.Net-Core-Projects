@@ -1,0 +1,432 @@
+{
+  "source_base_path": "C:/Development/Checkboxes",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Checkboxes/Doc/01_introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Checkboxes/Doc/01_introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Checkboxes/Doc/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Checkboxes/Doc/toc.html"
+        },
+        ".json": {
+          "relative_path": "Checkboxes/Doc/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Checkboxes/wwwroot/lib/jquery-validation/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "Checkboxes/wwwroot/lib/jquery-validation/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Home_Index.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Home_Index.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views_Home_Index",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Home_Privacy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Home_Privacy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views_Home_Privacy",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared_Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared_Error.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views_Shared_Error",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared__Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared__Layout.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views_Shared__Layout",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views_Shared__ValidationScriptsPartial",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views__ViewImports.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views__ViewImports.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views__ViewImports",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views__ViewStart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.Views__ViewStart.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument.Views__ViewStart",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/AspNetCoreGeneratedDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/AspNetCoreGeneratedDocument.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "AspNetCoreGeneratedDocument",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Controllers.HomeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Controllers.HomeController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Controllers.HomeController",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Controllers.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Controllers",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Migrations.CheckboxContextModelSnapshot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Migrations.CheckboxContextModelSnapshot.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Migrations.CheckboxContextModelSnapshot",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Migrations.first.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Migrations.first.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Migrations.first",
+      "Summary": "<p sourcefile=\"Doc/api/Checkboxes.Migrations.first.yml\" sourcestartlinenumber=\"1\">A base class inherited by each EF Core migration.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Migrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Migrations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Migrations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Models.CheckboxContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Models.CheckboxContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Models.CheckboxContext",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Models.CheckboxModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Models.CheckboxModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Models.CheckboxModel",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Models.ErrorViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Models.ErrorViewModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Models.ErrorViewModel",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "Doc/api/Checkboxes.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/Checkboxes.Models.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Checkboxes.Models",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Doc/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/api/toc.html"
+        },
+        ".json": {
+          "relative_path": "Doc/api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/01_introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/01_introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/02_development-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/02_development-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/03_getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/03_getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/04_internal-dependencies.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/04_internal-dependencies.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/05_external-dependencies.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/05_external-dependencies.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/06_changelog.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/06_changelog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Doc/generic/resources/ThirdPartyLicenses.md",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/resources/ThirdPartyLicenses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Doc/generic/resources/newPullRequest.png",
+      "output": {
+        "resource": {
+          "relative_path": "Doc/generic/resources/newPullRequest.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Doc/generic/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/generic/toc.html"
+        },
+        ".json": {
+          "relative_path": "Doc/generic/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Doc/module-specific/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Doc/module-specific/toc.html"
+        },
+        ".json": {
+          "relative_path": "Doc/module-specific/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

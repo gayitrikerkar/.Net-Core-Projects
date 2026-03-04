@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Checkboxes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\models\\checkboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\models\\checkboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\models\\checkboxcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\models\\checkboxcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|c:\\development\\checkboxes\\checkboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCD6E36-EE1D-419F-9D81-E18ED0C4317A}|Checkboxes\\Checkboxes.csproj|solutionrelative:checkboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\Program.cs",
+              "RelativeDocumentMoniker": "Checkboxes\\Program.cs",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\Program.cs",
+              "RelativeToolTip": "Checkboxes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:05:08.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\appsettings.json",
+              "RelativeDocumentMoniker": "Checkboxes\\appsettings.json",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\appsettings.json",
+              "RelativeToolTip": "Checkboxes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T10:04:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckboxContext.cs",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\Models\\CheckboxContext.cs",
+              "RelativeDocumentMoniker": "Checkboxes\\Models\\CheckboxContext.cs",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\Models\\CheckboxContext.cs",
+              "RelativeToolTip": "Checkboxes\\Models\\CheckboxContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:59:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Checkboxes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Checkboxes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:24:30.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Checkboxes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Checkboxes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T05:11:09.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckboxModel.cs",
+              "DocumentMoniker": "C:\\Development\\Checkboxes\\Checkboxes\\Models\\CheckboxModel.cs",
+              "RelativeDocumentMoniker": "Checkboxes\\Models\\CheckboxModel.cs",
+              "ToolTip": "C:\\Development\\Checkboxes\\Checkboxes\\Models\\CheckboxModel.cs",
+              "RelativeToolTip": "Checkboxes\\Models\\CheckboxModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:10:40.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
