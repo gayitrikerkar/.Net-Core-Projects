@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: BindMultipleModelWithSingleView.Controllers
+  commentId: N:BindMultipleModelWithSingleView.Controllers
+  id: BindMultipleModelWithSingleView.Controllers
+  children:
+  - BindMultipleModelWithSingleView.Controllers.HomeController
+  langs:
+  - csharp
+  - vb
+  name: BindMultipleModelWithSingleView.Controllers
+  nameWithType: BindMultipleModelWithSingleView.Controllers
+  fullName: BindMultipleModelWithSingleView.Controllers
+  type: Namespace
+  assemblies:
+  - BindMultipleModelWithSingleView
+references:
+- uid: BindMultipleModelWithSingleView.Controllers.HomeController
+  commentId: T:BindMultipleModelWithSingleView.Controllers.HomeController
+  href: BindMultipleModelWithSingleView.Controllers.HomeController.html
+  name: HomeController
+  nameWithType: HomeController
+  fullName: BindMultipleModelWithSingleView.Controllers.HomeController
