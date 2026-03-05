@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Sessions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|c:\\development\\sessions\\sessions\\views\\home\\destroy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51362FD3-E75D-4599-837A-1E69A9A8AFD7}|Sessions\\Sessions.csproj|solutionrelative:sessions\\views\\home\\destroy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sessions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sessions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T04:02:54.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Sessions\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Sessions\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T08:17:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\appsettings.json",
+              "RelativeDocumentMoniker": "Sessions\\appsettings.json",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\appsettings.json",
+              "RelativeToolTip": "Sessions\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T07:08:50.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destroy.cshtml",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\Destroy.cshtml",
+              "RelativeDocumentMoniker": "Sessions\\Views\\Home\\Destroy.cshtml",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\Views\\Home\\Destroy.cshtml",
+              "RelativeToolTip": "Sessions\\Views\\Home\\Destroy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T06:22:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sessions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sessions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:21:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Sessions\\Sessions\\Program.cs",
+              "RelativeDocumentMoniker": "Sessions\\Program.cs",
+              "ToolTip": "C:\\Development\\Sessions\\Sessions\\Program.cs",
+              "RelativeToolTip": "Sessions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:56:54.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

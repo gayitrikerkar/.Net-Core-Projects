@@ -1,0 +1,7 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor accessor
+@{
+    ViewData["Title"] = "first";
+}
+
+<h1>first</h1>
+<h2>@accessor.HttpContext.Session.GetString("user")</h2>
