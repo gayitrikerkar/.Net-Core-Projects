@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\IdentityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\areas\\identity\\data\\identityappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\areas\\identity\\data\\identityappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\areas\\identity\\data\\identityappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\areas\\identity\\data\\identityappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|c:\\development\\identityapp\\identityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2746C4D-4881-491A-96EE-FA7979B7D8DE}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityApp\\appsettings.json",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\appsettings.json",
+              "RelativeToolTip": "IdentityApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T06:58:37.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowIQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:54:28.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "IdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T09:54:23.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityAppContext.cs",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Data\\IdentityAppContext.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\Areas\\Identity\\Data\\IdentityAppContext.cs",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Data\\IdentityAppContext.cs",
+              "RelativeToolTip": "IdentityApp\\Areas\\Identity\\Data\\IdentityAppContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:42:14.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityAppUser.cs",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Data\\IdentityAppUser.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\Areas\\Identity\\Data\\IdentityAppUser.cs",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Areas\\Identity\\Data\\IdentityAppUser.cs",
+              "RelativeToolTip": "IdentityApp\\Areas\\Identity\\Data\\IdentityAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:41:44.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\Program.cs",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Program.cs",
+              "RelativeToolTip": "IdentityApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:36:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Development\\IdentityApp\\IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Development\\IdentityApp\\IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T09:33:28.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
