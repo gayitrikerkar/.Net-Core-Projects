@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\DropDownlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\models\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\models\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\views\\home\\dropdownwithdb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\views\\home\\dropdownwithdb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|c:\\development\\dropdownlist\\dropdownlist\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3BBAE6B-1553-4B21-89BF-9C2B1ECA2E3C}|DropDownlist\\DropDownlist.csproj|solutionrelative:dropdownlist\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\appsettings.json",
+              "RelativeDocumentMoniker": "DropDownlist\\appsettings.json",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\appsettings.json",
+              "RelativeToolTip": "DropDownlist\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T06:05:52.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Program.cs",
+              "RelativeDocumentMoniker": "DropDownlist\\Program.cs",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Program.cs",
+              "RelativeToolTip": "DropDownlist\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:15:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropDownWithDb.cshtml",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Views\\Home\\DropDownWithDb.cshtml",
+              "RelativeDocumentMoniker": "DropDownlist\\Views\\Home\\DropDownWithDb.cshtml",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Views\\Home\\DropDownWithDb.cshtml",
+              "RelativeToolTip": "DropDownlist\\Views\\Home\\DropDownWithDb.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T07:12:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DropDownlist\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DropDownlist\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwOMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:04:52.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DropDownlist\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DropDownlist\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T07:04:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "merge.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Models\\merge.cs",
+              "RelativeDocumentMoniker": "DropDownlist\\Models\\merge.cs",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Models\\merge.cs",
+              "RelativeToolTip": "DropDownlist\\Models\\merge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:54:00.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownlist\\DropDownlist\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "DropDownlist\\Models\\Students.cs",
+              "ToolTip": "C:\\Development\\DropDownlist\\DropDownlist\\Models\\Students.cs",
+              "RelativeToolTip": "DropDownlist\\Models\\Students.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:53:21.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

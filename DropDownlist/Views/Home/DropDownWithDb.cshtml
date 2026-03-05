@@ -1,0 +1,37 @@
+﻿@model merge
+@{
+    ViewData["Title"] = "DropDownWithDb";
+}
+
+<h1>DropDownWithDb</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DropDownWithDb">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+          
+            <div class="form-group">
+               
+                <select asp-for="s.Rollno" asp-items="@(new SelectList(Model.s.studentList,"Value","Text"))" class="form-control">                  
+                </select><br />
+
+                <select asp-for="c.CityId" asp-items="@(new SelectList(Model.c.cityList, "Value", "Text"))" class="form-control">
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+        @{
+            if (ViewBag.selectedStudent != null && ViewBag.selectedCity != null)
+            {
+                <h2>Selected Student Name is:@ViewBag.selectedStudent</h2>
+                <h2>Selected City is:@ViewBag.selectedCity</h2>
+            }
+            if (ViewBag.invalidvalue != null)
+            {
+                <h2>@ViewBag.invalidvalue</h2>
+            }
+        }
+    </div>
+</div>
