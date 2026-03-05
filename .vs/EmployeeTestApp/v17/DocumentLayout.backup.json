@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\EmployeeTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B53AB5-309E-47F5-ACDB-2310FAE2B1E5}|EmployeeTestApp\\EmployeeTestApp.csproj|c:\\development\\employeetestapp\\employeetestapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B53AB5-309E-47F5-ACDB-2310FAE2B1E5}|EmployeeTestApp\\EmployeeTestApp.csproj|solutionrelative:employeetestapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B53AB5-309E-47F5-ACDB-2310FAE2B1E5}|EmployeeTestApp\\EmployeeTestApp.csproj|c:\\development\\employeetestapp\\employeetestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B53AB5-309E-47F5-ACDB-2310FAE2B1E5}|EmployeeTestApp\\EmployeeTestApp.csproj|solutionrelative:employeetestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\EmployeeTestApp\\EmployeeTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeTestApp\\Program.cs",
+              "ToolTip": "C:\\Development\\EmployeeTestApp\\EmployeeTestApp\\Program.cs",
+              "RelativeToolTip": "EmployeeTestApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:52:00.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Development\\EmployeeTestApp\\EmployeeTestApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeTestApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Development\\EmployeeTestApp\\EmployeeTestApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeTestApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:51:29.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
