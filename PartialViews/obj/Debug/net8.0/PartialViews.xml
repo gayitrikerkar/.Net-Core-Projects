@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PartialViews</name>
+    </assembly>
+    <members>
+        <member name="M:PartialViews.Controllers.HomeController.Index">
+            <summary>
+            Represents a simple Index method.
+            </summary>
+        </member>
+        <member name="M:PartialViews.Controllers.HomeController.Products">
+            <summary>
+            Represents a simple Products method.
+            </summary>
+        </member>
+        <member name="M:PartialViews.Controllers.HomeController.Privacy">
+            <summary>
+            Gets the username associated with the specified ID.
+            </summary>
+            <param name="id">The unique user ID.</param>
+            <returns>A string containing the username for the specified ID.</returns>
+        </member>
+    </members>
+</doc>

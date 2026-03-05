@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a asp-controller="Home" asp-action="Privacy">Privacy</a><br />
+<a asp-controller="Home" asp-action="About">About</a><br />
+<a asp-controller="Home" asp-action="Contact">Contact</a>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@* <partial name="_WelcomeView"></partial> *@
+
+<partial name="_WelcomeView" />
