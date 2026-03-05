@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>@ViewBag.data1</p>
+
+@{
+
+    foreach (var color in ViewBag.data2)//ViewBag needs no typecasting
+    {
+        <h3>@color</h3>
+    }
+}
+
+@{
+
+    foreach (var sport in ViewBag.data3)//ViewBag needs no typecasting
+    {
+        <h3>@sport</h3>
+    }
+}
+
+<br/>
+@ViewBag.data4
+@ViewData["data5"]

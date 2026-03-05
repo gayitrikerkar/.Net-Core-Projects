@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@TempData["data1"]
+@{
+
+    foreach (var color in (string[])TempData["data2"])//tempdata needs typecasting
+    {
+        <h3>@color</h3>
+    }
+}
+
+@{
+
+    foreach (var sport in (List<string>)TempData["data3"])//tempdata needs typecasting
+    {
+        <h3>@sport</h3>
+    }
+}

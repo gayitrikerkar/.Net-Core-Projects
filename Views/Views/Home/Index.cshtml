@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+   // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<p>the time is @DateTime.Now</p>
+<p>the year is @DateTime.Now.Year</p>
+
+@{
+    var name ="rucha";
+    if (name.Equals("rucha"))
+    {
+        <h3>Hey Rucha</h3>
+    }
+    else
+    {
+        <h3>bye</h3>
+    }
+    var city = "pune";
+}
+
+@{
+for(int i=0;i<10;i++)
+    {
+        <h3>@i</h3>
+    }
+}
+
+@{
+    string[] colors = {"red", "blue", "white"};
+    foreach (var color in colors)
+    {
+        <h3>@color</h3>
+    }
+}
+
+<p>the name is @name</p>
+<p>the city is @city</p>
+<p>@ViewData["data1"]</p>
+
+@{
+   
+    foreach (var color in (string[])ViewData["data2"])//viewdata needs typecasting
+    {
+        <h3>@color</h3>
+    }
+}
+
+@{
+
+    foreach (var sport in (List<string>)ViewData["data3"])//viewdata needs typecasting
+    {
+        <h3>@sport</h3>
+    }
+}
