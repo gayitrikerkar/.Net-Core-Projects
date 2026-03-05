@@ -1,0 +1,52 @@
+﻿@page "/students/create"
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerApp.Models
+@inject IDbContextFactory<BlazorServerApp.Data.BlazorServerAppContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h2>Students</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Students" OnValidSubmit="AddStudents" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" role="alert"/>
+            <div class="mb-3">
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="Students.Name" class="form-control" /> 
+                <ValidationMessage For="() => Students.Name" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="address" class="form-label">Address:</label> 
+                <InputText id="address" @bind-Value="Students.Address" class="form-control" /> 
+                <ValidationMessage For="() => Students.Address" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="city" class="form-label">City:</label> 
+                <InputText id="city" @bind-Value="Students.City" class="form-control" /> 
+                <ValidationMessage For="() => Students.City" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+            |
+            <a href="/students" class="btn btn-secondary">Back to List</a>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Students Students { get; set; } = new();
+
+    // To protect from overposting attacks, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task AddStudents()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Students.Add(Students);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/students");
+    }
+}

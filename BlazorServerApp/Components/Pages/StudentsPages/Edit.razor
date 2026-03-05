@@ -1,0 +1,97 @@
+﻿@page "/students/edit"
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerApp.Models
+@inject IDbContextFactory<BlazorServerApp.Data.BlazorServerAppContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit</h1>
+
+<h2>Students</h2>
+<hr />
+@if (Students is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <EditForm method="post" Model="Students" OnValidSubmit="UpdateStudents" FormName="edit" Enhance>
+                <DataAnnotationsValidator />
+                <ValidationSummary role="alert"/>
+                <input type="hidden" name="Students.RollNo" value="@Students.RollNo" />
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name:</label>
+                    <InputText id="name" @bind-Value="Students.Name" class="form-control" />
+                    <ValidationMessage For="() => Students.Name" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="address" class="form-label">Address:</label>
+                    <InputText id="address" @bind-Value="Students.Address" class="form-control" />
+                    <ValidationMessage For="() => Students.Address" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="city" class="form-label">City:</label>
+                    <InputText id="city" @bind-Value="Students.City" class="form-control" />
+                    <ValidationMessage For="() => Students.City" class="text-danger" />
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+                |
+                <a href="/students" class="btn btn-secondary">Back to List</a>
+            </EditForm>
+        </div>
+    </div>
+}
+
+@code {
+    [SupplyParameterFromQuery]
+    private int RollNo { get; set; }
+
+    [SupplyParameterFromForm]
+    private Students? Students { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        Students ??= await context.Students.FirstOrDefaultAsync(m => m.RollNo == RollNo);
+
+        if (Students is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    // To protect from overposting attacks, enable the specific properties you want to bind to.
+    // For more information, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task UpdateStudents()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Attach(Students!).State = EntityState.Modified;
+
+        try
+        {
+            await context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!StudentsExists(Students!.RollNo))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/students");
+    }
+
+    private bool StudentsExists(int rollno)
+    {
+        using var context = DbFactory.CreateDbContext();
+        return context.Students.Any(e => e.RollNo == rollno);
+    }
+}

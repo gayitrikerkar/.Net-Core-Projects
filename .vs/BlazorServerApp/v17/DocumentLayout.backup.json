@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\BlazorServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|c:\\development\\blazorserverapp\\blazorserverapp\\components\\pages\\studentspages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|solutionrelative:blazorserverapp\\components\\pages\\studentspages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|c:\\development\\blazorserverapp\\blazorserverapp\\components\\pages\\studentspages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|solutionrelative:blazorserverapp\\components\\pages\\studentspages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|c:\\development\\blazorserverapp\\blazorserverapp\\components\\pages\\studentspages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776E501F-4579-48F3-AB13-1A85A2345D73}|BlazorServerApp\\BlazorServerApp.csproj|solutionrelative:blazorserverapp\\components\\pages\\studentspages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Create.razor",
+              "RelativeDocumentMoniker": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Create.razor",
+              "ToolTip": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Create.razor",
+              "RelativeToolTip": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T11:19:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Edit.razor",
+              "RelativeDocumentMoniker": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Edit.razor",
+              "ToolTip": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Edit.razor",
+              "RelativeToolTip": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Edit.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T07:08:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Index.razor",
+              "ToolTip": "C:\\Development\\BlazorServerApp\\BlazorServerApp\\Components\\Pages\\StudentsPages\\Index.razor",
+              "RelativeToolTip": "BlazorServerApp\\Components\\Pages\\StudentsPages\\Index.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T07:07:23.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
