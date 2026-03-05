@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\SampleMVCWithoutDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|c:\\development\\samplemvcwithoutdb\\samplemvcwithoutdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|solutionrelative:samplemvcwithoutdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|c:\\development\\samplemvcwithoutdb\\samplemvcwithoutdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|solutionrelative:samplemvcwithoutdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|c:\\development\\samplemvcwithoutdb\\samplemvcwithoutdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|solutionrelative:samplemvcwithoutdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|c:\\development\\samplemvcwithoutdb\\samplemvcwithoutdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|solutionrelative:samplemvcwithoutdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECAF60B-B021-4837-919B-B532CBC49CA3}|TestProject1\\TestProject1.csproj|c:\\development\\samplemvcwithoutdb\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECAF60B-B021-4837-919B-B532CBC49CA3}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|c:\\development\\samplemvcwithoutdb\\samplemvcwithoutdb\\views\\employee\\getemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BEA385-AFF6-4D04-B268-04EAB0BAD913}|SampleMVCWithoutDb\\SampleMVCWithoutDb.csproj|solutionrelative:samplemvcwithoutdb\\views\\employee\\getemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SampleMVCWithoutDb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SampleMVCWithoutDb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:02:04.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleMVCWithoutDb\\appsettings.json",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\appsettings.json",
+              "RelativeToolTip": "SampleMVCWithoutDb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T04:01:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleMVCWithoutDb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SampleMVCWithoutDb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T04:01:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmployee.cshtml",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Views\\Employee\\GetEmployee.cshtml",
+              "RelativeDocumentMoniker": "SampleMVCWithoutDb\\Views\\Employee\\GetEmployee.cshtml",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Views\\Employee\\GetEmployee.cshtml",
+              "RelativeToolTip": "SampleMVCWithoutDb\\Views\\Employee\\GetEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T09:52:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:18:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SampleMVCWithoutDb\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Development\\SampleMVCWithoutDb\\SampleMVCWithoutDb\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SampleMVCWithoutDb\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:06:50.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
