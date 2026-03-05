@@ -1,0 +1,52 @@
+﻿@page "/teachers/details"
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerAppCode.Models
+@inject IDbContextFactory<BlazorServerAppCode.Models.StudentsContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h2>Teachers</h2>
+    <hr />
+    @if (teachers is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@teachers.Name</dd>
+            <dt class="col-sm-2">Age</dt>
+            <dd class="col-sm-10">@teachers.Age</dd>
+            <dt class="col-sm-2">Gender</dt>
+            <dd class="col-sm-10">@teachers.Gender</dd>
+            <dt class="col-sm-2">City</dt>
+            <dd class="col-sm-10">@teachers.City</dd>
+        </dl>
+        <div>
+            <a href="@($"/teachers/edit?id={teachers.Id}")" class="btn btn-info">Edit</a> |
+            <a href="@($"/teachers")" class="btn btn-secondary">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    private Teachers? teachers;
+
+    [SupplyParameterFromQuery]
+    private int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        teachers = await context.Teacher.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (teachers is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

@@ -1,0 +1,116 @@
+﻿@page "/teachers/edit"
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerAppCode.Models
+@using static BlazorServerAppCode.Models.Teachers
+@inject IDbContextFactory<BlazorServerAppCode.Models.StudentsContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit Teachers</h1>
+<hr />
+@if (Teachers is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <EditForm method="post" Model="Teachers" OnValidSubmit="UpdateTeachers" FormName="edit" Enhance>
+                <DataAnnotationsValidator />
+               @*  <ValidationSummary role="alert"/> *@
+                <input type="hidden" name="Teachers.Id" value="@Teachers.Id" />
+                <div class="mb-3">
+                <span class="text-danger">*</span>
+                    <label for="name" class="form-label">Name:</label>
+                    <InputText id="name" @bind-Value="Teachers.Name" class="form-control" aria-required="true"/>
+                    <ValidationMessage For="() => Teachers.Name" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                <span class="text-danger">*</span>
+                    <label for="age" class="form-label">Age:</label>
+                    <InputNumber id="age" @bind-Value="Teachers.Age" class="form-control" aria-required="true"/>
+                    <ValidationMessage For="() => Teachers.Age" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                <span class="text-danger">*</span>
+                    <label for="gender" class="form-label">Gender:</label>
+                   @*  <InputText id="gender" @bind-Value="Teachers.Gender" class="form-control" aria-required="true" /> *@
+                    <InputSelect id="gender" @bind-Value="Teachers.Gender" class="form-control" aria-required="true">
+                        <option value="0">
+                            Select Gender
+                        </option>
+                        @foreach (var gender in Enum.GetValues(typeof(Genders)))
+                        {
+                            <option value="@gender">
+                                @gender.ToString()
+                            </option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="() => Teachers.Gender" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                <span class="text-danger">*</span>
+                    <label for="city" class="form-label">City:</label>
+                    <InputText id="city" @bind-Value="Teachers.City" class="form-control" aria-required="true"/>
+                    <ValidationMessage For="() => Teachers.City" class="text-danger" />
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+                |
+                <a href="/teachers" class="btn btn-secondary">Back to List</a>
+            </EditForm>
+        </div>
+    </div>
+}
+
+@code {   
+    [SupplyParameterFromQuery]
+    private int Id { get; set; }
+
+    [SupplyParameterFromForm]
+    private Teachers? Teachers { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        Teachers ??= await context.Teacher.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (Teachers is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    // To protect from overposting attacks, enable the specific properties you want to bind to.
+    // For more information, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task UpdateTeachers()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Attach(Teachers!).State = EntityState.Modified;
+
+        try
+        {
+            await context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!TeachersExists(Teachers!.Id))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/teachers");
+    }
+
+    private bool TeachersExists(int id)
+    {
+        using var context = DbFactory.CreateDbContext();
+        return context.Teacher.Any(e => e.Id == id);
+    }
+}

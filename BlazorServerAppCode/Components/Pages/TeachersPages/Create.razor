@@ -1,0 +1,74 @@
+﻿@page "/teachers/create"
+@using Microsoft.AspNetCore.Mvc.Rendering
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerAppCode.Models
+@using static BlazorServerAppCode.Models.Teachers
+@inject IDbContextFactory<BlazorServerAppCode.Models.StudentsContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h2>Teachers</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Teachers" OnValidSubmit="AddTeachers" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+          @*   <ValidationSummary class="text-danger" role="alert"/> *@
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="Teachers.Name" class="form-control" aria-required="true"/> 
+                <ValidationMessage For="() => Teachers.Name" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="age" class="form-label">Age:</label> 
+                <InputNumber id="age" @bind-Value="Teachers.Age" class="form-control" aria-required="true"/> 
+                <ValidationMessage For="() => Teachers.Age" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="gender" class="form-label">Gender:</label> 
+               @*  <InputText id="gender" @bind-Value="Teachers.Gender" class="form-select" aria-required="true"/> *@
+                <InputSelect id="gender" @bind-Value="Teachers.Gender" class="form-control" aria-required="true" >
+                    <option value="0">
+                        Select Gender
+                    </option>
+                    @foreach(var gender in Enum.GetValues(typeof(Genders)))
+                    {
+                        <option value="@gender">
+                            @gender.ToString()
+                        </option>
+                    }
+                </InputSelect>
+                <ValidationMessage For="() => Teachers.Gender" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="city" class="form-label">City:</label> 
+                <InputText id="city" @bind-Value="Teachers.City" class="form-control" aria-required="true"/> 
+                <ValidationMessage For="() => Teachers.City" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+            |
+            <a href="/teachers" class="btn btn-secondary">Back to List</a>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Teachers Teachers { get; set; } = new();
+
+    // To protect from overposting attacks, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task AddTeachers()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Teacher.Add(Teachers);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/teachers");
+    }
+}
