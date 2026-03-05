@@ -1,0 +1,195 @@
+﻿@page "/students/create"
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerAppTest.Models
+@using static BlazorServerAppTest.Models.Students
+@inject IDbContextFactory<BlazorServerAppTest.Data.BlazorServerAppTestContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h2>Students</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="students" OnValidSubmit="AddStudents" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+         @*    <ValidationSummary class="text-danger" role="alert"/> *@
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="students.Name" class="form-control" aria-required="true"/> 
+                <ValidationMessage For="() => students.Name" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="city" class="form-label">City:</label> 
+              @*   <InputText id="city" @bind-Value="Students.City" class="form-control" aria-required="true"/>  *@                
+                <InputSelect id="city" @bind-Value="students.City" class="form-control" aria-required="true">
+                    <option value="0">
+                        Select City
+                    </option>
+                    @foreach (var city in Enum.GetValues(typeof(Cities)))
+                    {
+                        <option value="@city">
+                            @city.ToString()
+                        </option>
+                    }
+                </InputSelect>
+                <ValidationMessage For="() => students.City" class="text-danger" /> 
+            </div>
+
+            <div class="mb-3">
+                @foreach (var item in students.checkboxMod.checkBoxes)
+                {
+                    if (students.Name!=null)
+                    {
+                        students.SubjectsList.Add(item.Value);
+                    }
+                    <div class="form-check">
+                        <InputCheckbox class="form-check-input"                              
+                               @bind-Value="@item.IsChecked"
+                               id="@item.Value"
+                               name="@students.SubjectsList"
+                               checked="@item.IsChecked"/>
+                        <label class="form-check-label" for="flexCheckDefault">
+                            @item.Text
+                        </label>
+                      
+                    </div>
+                }
+          </div>
+            <div class="mb-3">
+                <InputCheckbox @bind-Value="students.HasSubmitted" />
+                Documents Submitted?
+          </div>
+            <div class="mb-3">
+                <span class="text-danger">*</span>
+                <label for="age" class="form-label">Age:</label> 
+                <InputNumber id="age" @bind-Value="students.Age" class="form-control" aria-required="true"/> 
+                <ValidationMessage For="() => students.Age" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/students">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Students students { get; set; } = new Students()
+    {
+        checkboxMod = new CheckboxModel()
+            {
+                checkBoxes = new List<CheckBoxOption>
+                        {
+                            new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="Science",
+                                Value="Science"
+                            },
+                             new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="Maths",
+                                Value="Maths"
+                            },
+                            new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="History",
+                                Value="History"
+                            }
+                        }
+            }
+    };
+
+    // private Students s = new Students()
+    // {
+    //     checkboxMod = new CheckboxModel()
+    //     {
+    //         checkBoxes = new List<CheckBoxOption>
+    //                 {
+    //                     new CheckBoxOption()
+    //                     {
+    //                         IsChecked = true,
+    //                         Text="Science",
+    //                         Value="Science"
+    //                     },
+    //                      new CheckBoxOption()
+    //                     {
+    //                         IsChecked = true,
+    //                         Text="Maths",
+    //                         Value="Maths"
+    //                     },
+    //                     new CheckBoxOption()
+    //                     {
+    //                         IsChecked = true,
+    //                         Text="History",
+    //                         Value="History"
+    //                     }
+    //                 }
+    //     }
+    // };
+
+     private async Task AddStudents()
+    {
+        students.checkboxMod = new CheckboxModel()
+            {
+                checkBoxes = new List<CheckBoxOption>
+                        {
+                            new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="Science",
+                                Value="Science"
+                            },
+                             new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="Maths",
+                                Value="Maths"
+                            },
+                            new CheckBoxOption()
+                            {
+                                IsChecked = true,
+                                Text="History",
+                                Value="History"
+                            }
+                        }
+            };
+
+        using var context = DbFactory.CreateDbContext();
+        context.Remove("Subject");
+        context.Remove("checkboxMod");
+        if (students.SubjectsList.Count > 0)
+        {
+            var data = students.SubjectsList;
+            if (data != null)
+            {
+                foreach (var i in data)
+                {
+                    Students s1 = new Students()
+                    {
+                        Name = students.Name,
+                        City=students.City,
+                        Age=students.Age,
+                        HasSubmitted=students.HasSubmitted,
+                        Subject = i.ToString(),
+                    };
+                    context.Students.Add(s1);
+                    context.SaveChanges();
+
+                }
+            }
+        }
+        // context.Students.Add(students);
+        // await context.SaveChangesAsync();
+        // NavigationManager.NavigateTo("/students");
+    }
+}

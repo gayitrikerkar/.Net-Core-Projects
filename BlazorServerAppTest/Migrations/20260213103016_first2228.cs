@@ -1,0 +1,29 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace BlazorServerAppTest.Migrations
+{
+    /// <inheritdoc />
+    public partial class first2228 : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropColumn(
+                name: "Subject",
+                table: "Students");
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.AddColumn<string>(
+                name: "Subject",
+                table: "Students",
+                type: "nvarchar(max)",
+                nullable: false,
+                defaultValue: "");
+        }
+    }
+}
