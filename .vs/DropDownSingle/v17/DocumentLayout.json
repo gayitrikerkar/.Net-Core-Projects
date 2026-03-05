@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\DropDownSingle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|c:\\development\\dropdownsingle\\dropdownsingle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|solutionrelative:dropdownsingle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|c:\\development\\dropdownsingle\\dropdownsingle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|solutionrelative:dropdownsingle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|c:\\development\\dropdownsingle\\dropdownsingle\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|solutionrelative:dropdownsingle\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|c:\\development\\dropdownsingle\\dropdownsingle\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|solutionrelative:dropdownsingle\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|c:\\development\\dropdownsingle\\dropdownsingle\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B7C4A-74BB-4FAD-A6E6-7B9871FC151D}|DropDownSingle\\DropDownSingle.csproj|solutionrelative:dropdownsingle\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\DropDownSingle\\DropDownSingle\\appsettings.json",
+              "RelativeDocumentMoniker": "DropDownSingle\\appsettings.json",
+              "ToolTip": "C:\\Development\\DropDownSingle\\DropDownSingle\\appsettings.json",
+              "RelativeToolTip": "DropDownSingle\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T04:51:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Development\\DropDownSingle\\DropDownSingle\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DropDownSingle\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Development\\DropDownSingle\\DropDownSingle\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DropDownSingle\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T07:45:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownSingle\\DropDownSingle\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DropDownSingle\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\DropDownSingle\\DropDownSingle\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DropDownSingle\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:24:20.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownSingle\\DropDownSingle\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "DropDownSingle\\Models\\Students.cs",
+              "ToolTip": "C:\\Development\\DropDownSingle\\DropDownSingle\\Models\\Students.cs",
+              "RelativeToolTip": "DropDownSingle\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:24:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Development\\DropDownSingle\\DropDownSingle\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "DropDownSingle\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Development\\DropDownSingle\\DropDownSingle\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "DropDownSingle\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:24:14.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
