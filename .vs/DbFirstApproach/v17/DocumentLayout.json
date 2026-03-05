@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\DbFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\models\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|c:\\development\\dbfirstapproach\\dbfirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEC915-9D3B-4F13-93CF-70D9C913A127}|DbFirstApproach\\DbFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Program.cs",
+              "RelativeToolTip": "DbFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:27:13.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "DbFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\appsettings.json",
+              "RelativeToolTip": "DbFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T11:26:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbFirstContext.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\DbFirstContext.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\DbFirstContext.cs",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\DbFirstContext.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\DbFirstContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:22:41.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DbFirstApproach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T11:09:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Student.cs",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\Student.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:07:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Models\\Employee.cs",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Models\\Employee.cs",
+              "RelativeToolTip": "DbFirstApproach\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:06:51.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DbFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\DbFirstApproach\\DbFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DbFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:58:50.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
