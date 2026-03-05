@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\multiplecheckboxesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|c:\\development\\multiplecheckboxesapp\\multiplecheckboxesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|solutionrelative:multiplecheckboxesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|c:\\development\\multiplecheckboxesapp\\multiplecheckboxesapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|solutionrelative:multiplecheckboxesapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|c:\\development\\multiplecheckboxesapp\\multiplecheckboxesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|solutionrelative:multiplecheckboxesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|c:\\development\\multiplecheckboxesapp\\multiplecheckboxesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB0FC9-C754-496B-BDEA-E8B4E160609B}|multiplecheckboxesApp\\multiplecheckboxesApp.csproj|solutionrelative:multiplecheckboxesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "multiplecheckboxesApp\\appsettings.json",
+              "ToolTip": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\appsettings.json",
+              "RelativeToolTip": "multiplecheckboxesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T07:28:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "multiplecheckboxesApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "multiplecheckboxesApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T07:06:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "multiplecheckboxesApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Models\\Student.cs",
+              "RelativeToolTip": "multiplecheckboxesApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:56:40.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "multiplecheckboxesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\multiplecheckboxesApp\\multiplecheckboxesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "multiplecheckboxesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:52:51.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
