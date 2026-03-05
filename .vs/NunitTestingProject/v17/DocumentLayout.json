@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\NunitTestingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|c:\\development\\nunittestingproject\\nunittestingproject\\propertymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|solutionrelative:nunittestingproject\\propertymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA55553-AA38-4512-89A6-AD2F638A7679}|TestProject1\\TestProject1.csproj|c:\\development\\nunittestingproject\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA55553-AA38-4512-89A6-AD2F638A7679}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|c:\\development\\nunittestingproject\\nunittestingproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|solutionrelative:nunittestingproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|c:\\development\\nunittestingproject\\nunittestingproject\\nationalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|solutionrelative:nunittestingproject\\nationalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|c:\\development\\nunittestingproject\\nunittestingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C2F3F9-94CD-4895-92F2-70DC0EE77DCC}|NunitTestingProject\\NunitTestingProject.csproj|solutionrelative:nunittestingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Development\\NunitTestingProject\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Development\\NunitTestingProject\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:37:11.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyMapper.cs",
+              "DocumentMoniker": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\PropertyMapper.cs",
+              "RelativeDocumentMoniker": "NunitTestingProject\\PropertyMapper.cs",
+              "ToolTip": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\PropertyMapper.cs",
+              "RelativeToolTip": "NunitTestingProject\\PropertyMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:35:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nationalities.cs",
+              "DocumentMoniker": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Nationalities.cs",
+              "RelativeDocumentMoniker": "NunitTestingProject\\Nationalities.cs",
+              "ToolTip": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Nationalities.cs",
+              "RelativeToolTip": "NunitTestingProject\\Nationalities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:33:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Employee.cs",
+              "RelativeDocumentMoniker": "NunitTestingProject\\Employee.cs",
+              "ToolTip": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Employee.cs",
+              "RelativeToolTip": "NunitTestingProject\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:30:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Program.cs",
+              "RelativeDocumentMoniker": "NunitTestingProject\\Program.cs",
+              "ToolTip": "C:\\Development\\NunitTestingProject\\NunitTestingProject\\Program.cs",
+              "RelativeToolTip": "NunitTestingProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:19:09.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

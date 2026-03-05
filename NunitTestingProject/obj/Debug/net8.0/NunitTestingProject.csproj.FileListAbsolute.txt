@@ -1,0 +1,14 @@
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\bin\Debug\net8.0\NunitTestingProject.exe
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\bin\Debug\net8.0\NunitTestingProject.deps.json
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\bin\Debug\net8.0\NunitTestingProject.runtimeconfig.json
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\bin\Debug\net8.0\NunitTestingProject.dll
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\bin\Debug\net8.0\NunitTestingProject.pdb
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.AssemblyInfoInputs.cache
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.AssemblyInfo.cs
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.csproj.CoreCompileInputs.cache
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.dll
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\refint\NunitTestingProject.dll
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.pdb
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\NunitTestingProject.genruntimeconfig.cache
+C:\Users\KRG3GOA\source\repos\NunitTestingProject\NunitTestingProject\obj\Debug\net8.0\ref\NunitTestingProject.dll
