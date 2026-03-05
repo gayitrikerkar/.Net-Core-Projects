@@ -1,0 +1,38 @@
+﻿@model Student;
+@{
+    ViewData["Title"] = "FormTest";
+}
+
+<h1>FormTest</h1>
+
+<div class="Container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-action="FormTest" asp-controller="Home" method="post">
+                <label asp-for="RollNo">Enter RollNo</label>
+                <input asp-for="RollNo" placeholder="Enter Roll No" class="form-control"/><br />
+                <input asp-for="Name" placeholder="Enter Name" class="form-control" /><br />
+                <input asp-for="Age" placeholder="Enter Age" class="form-control" /><br />
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Student.Genders>()">
+                    <option value="">Select Gender</option>
+                </select><br />
+                <label>Married:</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="Yes">
+                    <label class="form-check-label" for="radioDefault1">
+                        Yes
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="No">
+                    <label class="form-check-label" for="radioDefault2">
+                       No
+                    </label>
+                </div>
+                <br />
+                <textarea class="form-control" placeholder="Enter Address"  asp-for="Address"></textarea>
+                <input type="submit" value="submit" class="btn btn-outline-primary" />
+            </form>
+        </div>
+    </div>
+</div>

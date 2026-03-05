@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\TagHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|c:\\development\\taghelpers\\taghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|solutionrelative:taghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|c:\\development\\taghelpers\\taghelpers\\views\\home\\formtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|solutionrelative:taghelpers\\views\\home\\formtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|c:\\development\\taghelpers\\taghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|solutionrelative:taghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|c:\\development\\taghelpers\\taghelpers\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|solutionrelative:taghelpers\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|c:\\development\\taghelpers\\taghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9E3FE4-C7A6-480E-A83A-9062BE65D07C}|TagHelpers\\TagHelpers.csproj|solutionrelative:taghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\TagHelpers\\TagHelpers\\appsettings.json",
+              "RelativeDocumentMoniker": "TagHelpers\\appsettings.json",
+              "ToolTip": "C:\\Development\\TagHelpers\\TagHelpers\\appsettings.json",
+              "RelativeToolTip": "TagHelpers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T04:03:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Development\\TagHelpers\\TagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Development\\TagHelpers\\TagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelpers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:31:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Development\\TagHelpers\\TagHelpers\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TagHelpers\\Models\\Student.cs",
+              "ToolTip": "C:\\Development\\TagHelpers\\TagHelpers\\Models\\Student.cs",
+              "RelativeToolTip": "TagHelpers\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:04:06.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTest.cshtml",
+              "DocumentMoniker": "C:\\Development\\TagHelpers\\TagHelpers\\Views\\Home\\FormTest.cshtml",
+              "RelativeDocumentMoniker": "TagHelpers\\Views\\Home\\FormTest.cshtml",
+              "ToolTip": "C:\\Development\\TagHelpers\\TagHelpers\\Views\\Home\\FormTest.cshtml",
+              "RelativeToolTip": "TagHelpers\\Views\\Home\\FormTest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T11:22:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\TagHelpers\\TagHelpers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelpers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\TagHelpers\\TagHelpers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelpers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:27:08.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
