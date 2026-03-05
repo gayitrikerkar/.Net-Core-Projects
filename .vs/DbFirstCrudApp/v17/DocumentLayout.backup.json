@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\DbFirstCrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|c:\\development\\dbfirstcrudapp\\dbfirstcrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|solutionrelative:dbfirstcrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|c:\\development\\dbfirstcrudapp\\dbfirstcrudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|solutionrelative:dbfirstcrudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|c:\\development\\dbfirstcrudapp\\dbfirstcrudapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|solutionrelative:dbfirstcrudapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|c:\\development\\dbfirstcrudapp\\dbfirstcrudapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|solutionrelative:dbfirstcrudapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|c:\\development\\dbfirstcrudapp\\dbfirstcrudapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF9357-9617-45BA-A081-126EFC5FDA92}|DbFirstCrudApp\\DbFirstCrudApp.csproj|solutionrelative:dbfirstcrudapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DbFirstCrudApp\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DbFirstCrudApp\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:12:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DbFirstCrudApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DbFirstCrudApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:12:32.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DbFirstCrudApp\\appsettings.json",
+              "ToolTip": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\appsettings.json",
+              "RelativeToolTip": "DbFirstCrudApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T10:49:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DbFirstCrudApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DbFirstCrudApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:32:59.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstCrudApp\\Program.cs",
+              "ToolTip": "C:\\Development\\DbFirstCrudApp\\DbFirstCrudApp\\Program.cs",
+              "RelativeToolTip": "DbFirstCrudApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:56:05.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
