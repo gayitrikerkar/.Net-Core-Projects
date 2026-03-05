@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\WebAppEmptyBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\views\\student\\studentabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\views\\student\\studentabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|c:\\development\\webappemptybasics\\webappemptybasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5972272B-AC21-4BE7-B0A1-9DE8B32B9BEB}|WebAppEmptyBasics\\WebAppEmptyBasics.csproj|solutionrelative:webappemptybasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\appsettings.json",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\appsettings.json",
+              "RelativeToolTip": "WebAppEmptyBasics\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T08:17:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentABout.cshtml",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Views\\Student\\StudentABout.cshtml",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Views\\Student\\StudentABout.cshtml",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Views\\Student\\StudentABout.cshtml",
+              "RelativeToolTip": "WebAppEmptyBasics\\Views\\Student\\StudentABout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:22:33.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebAppEmptyBasics\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:21:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebAppEmptyBasics\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:21:17.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAppEmptyBasics\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:10:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppEmptyBasics\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:59:19.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppEmptyBasics\\Program.cs",
+              "ToolTip": "C:\\Development\\WebAppEmptyBasics\\WebAppEmptyBasics\\Program.cs",
+              "RelativeToolTip": "WebAppEmptyBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:29:28.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
